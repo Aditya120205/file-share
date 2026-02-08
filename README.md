@@ -67,7 +67,7 @@ Setup backend and frontend separately with `npm install` and start servers using
 
 ## 🌍 Live Demo
 
-🔗 [https://mydropzone.vercel.app](https://mydropzone.vercel.app)
+🔗 [https://share-fox.vercel.app](https://share-fox.vercel.app)
 
 ---
 
