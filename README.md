@@ -1,7 +1,7 @@
 # 📦 MyDropzone
 
 [![Build](https://img.shields.io/badge/build-passing-brightgreen)](https://vercel.com)
-[![License](https://img.shields.io/github/license/siddhesh-wagh/mydropzone)](./LICENSE)
+[![License](https://img.shields.io/github/license/Aditya120205/file-share)](./LICENSE)
 [![Made with React](https://img.shields.io/badge/frontend-react-blue)](https://reactjs.org/)
 [![Backend](https://img.shields.io/badge/backend-express-lightgrey)](https://expressjs.com/)
 
@@ -58,7 +58,7 @@ mydropzone/
 Clone the repository:
 
 ```bash
-git clone https://github.com/siddhesh-wagh/mydropzone.git
+git clone https://github.com/Aditya120205/file-share.git
 ```
 
 Setup backend and frontend separately with `npm install` and start servers using `npm start`.
