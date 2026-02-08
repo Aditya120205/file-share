@@ -6,7 +6,7 @@ import './LoginPage.css';
 const API_URL = process.env.REACT_APP_API_URL; // ✅ Use environment variable
 
 const LoginPage = () => {
-  const [username] = useState('siddhesh'); // Hardcoded username
+  const [username] = useState('Aditya'); // Hardcoded username
   const [password, setPassword] = useState('');
   const [error, setError] = useState('');
   const { login } = useAuth();

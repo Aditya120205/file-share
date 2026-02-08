@@ -86,5 +86,5 @@ This project is licensed under the MIT License — see the [LICENSE](./LICENSE) 
 
 ## 🤝 Credits
 
-Built by [@siddhesh-wagh](https://github.com/siddhesh-wagh)  
+Built by [@aditya-poojari](https://github.com/Aditya120205)  
 With 💙 using **React** + **Express**
