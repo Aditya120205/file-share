@@ -1,4 +1,4 @@
-# 📦 MyDropzone
+# 📦 File-Share
 
 [![Build](https://img.shields.io/badge/build-passing-brightgreen)](https://vercel.com)
 [![License](https://img.shields.io/github/license/Aditya120205/file-share)](./LICENSE)
