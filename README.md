@@ -5,7 +5,7 @@
 [![Made with React](https://img.shields.io/badge/frontend-react-blue)](https://reactjs.org/)
 [![Backend](https://img.shields.io/badge/backend-express-lightgrey)](https://expressjs.com/)
 
-**MyDropzone** is a full-stack file upload and management app built with React and Express. It provides a seamless drag-and-drop interface for uploading files, alongside secure authentication and simple file browsing, downloading, and deletion.
+**File-Share** is a full-stack file upload and management app built with React and Express. It provides a seamless drag-and-drop interface for uploading files, alongside secure authentication and simple file browsing, downloading, and deletion.
 
 ---
 
